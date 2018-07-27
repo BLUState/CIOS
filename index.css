@@ -1,7 +1,7 @@
 body
 {
-	background-color: #011594;
-	color: white;
+	background-color: rgba(78, 81, 102, 1);
+	color: rgba(124, 144, 160, 1);
 	text-align: center;
 }
 
@@ -31,7 +31,7 @@ td
     height: 290px;
     width: 225px;
 	background-color: rgb(226, 209, 114);
-    border: 10px solid rgb(26, 5, 121);
+    border: 10px solid rgba(124, 144, 160, 1);
     opacity: 1;
     border-radius: 12px;
     padding-top: 10px;
@@ -55,9 +55,9 @@ td
 .button
 {
     background-color: rgb(2, 2, 88);
-	border: 1px solid white;
+	border: 1px solid rgb(144, 194, 235);
 	border-radius: 12px;
-    color: white;
+    color: rgb(144, 194, 235);
     padding: 15px 25px;
     text-align: center;
     font-size: 16px;
